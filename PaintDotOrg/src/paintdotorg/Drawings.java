@@ -1,4 +1,4 @@
-package paintdotorg_skeleton_code;
+package paintdotorg;
 
 public class Drawings {
 	//variable to store line thickness when drawing, erasing, and for shapes

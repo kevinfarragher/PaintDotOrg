@@ -1,4 +1,4 @@
-package paintdotorg_skeleton_code;
+package paintdotorg;
 
 import java.awt.Graphics;
 import java.awt.image.BufferedImage;

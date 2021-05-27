@@ -1,4 +1,4 @@
-package paintdotorg_skeleton_code;
+package paintdotorg;
 
 import java.util.regex.*;
 import java.awt.BorderLayout;
